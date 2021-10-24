@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mick's additions
+*~
+*.swp
+
 # C extensions
 *.so
 
